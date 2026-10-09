@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "quickstart-resources",
+  "versions": [
+    {
+      "commit": "2912bb30785c7702a2f9abfab783e9140aa7246b",
+      "tag": "main",
+      "parsed_at": "2026-10-09T04:05:22.229038+00:00"
+    }
+  ]
+}
